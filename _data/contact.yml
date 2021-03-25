@@ -4,12 +4,17 @@
   type: github
   icon: 'fab fa-github-alt'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
--
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
+-
+   type: linkedin
+   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+   url:  'https://www.linkedin.com/in/jurandir-valerio-15074023/'                  # Fill with your Linkedin homepage
+-
+   type: stack-overflow
+   icon: 'fab fa-stack-overflow'
+   url:  'https://stackoverflow.com/users/3077870/jurandir-valerio'    
 -
   type: rss
   icon: 'fas fa-rss'

@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: '/jurandirvalerio.github.io'
+baseurl: ''
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
 lang: pt-BR
@@ -17,15 +17,13 @@ timezone: America/Sao_Paulo
 # --------------------------
 title: Jurandir Valerio                          # the main title
 
-tagline: Desenvolvedor, arquiteto; sempre em busca de ser uma melhor pessoa e profissional    # it will display as the sub-title
+tagline: Pessoa, dev, arquiteto, ...    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Um lugar pra registrar alguns estudos e pra que outras pessoas possam ver um pouco sobre meu trabalho
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://jurandirvalerio.github.io'
+url: ''
 
 github:
   username: jurandirvalerio             # change to your github username
@@ -40,10 +38,11 @@ social:
   email: jurandirvalerio@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/jurandirvalerio       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jurandir-valerio-15074023/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -70,7 +69,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: light  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
